@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+      <file>DBFunctions.js</file>
+        <file>CustomComboBox.qml</file>
+         <file>double-arrow.png</file>
+    </qresource>
+</RCC>
